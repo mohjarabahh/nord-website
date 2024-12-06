@@ -6,7 +6,7 @@ A landing page for a mobile application presentation developed with HTML and CSS
 ![design-view](./Images/preview.png)
 
 ## Live Demo
-👁 [Click here](https://mohjarabahh.github.io/nord-mobile-application-website) to check out the live demo!
+👁 [Click here](https://mohjarabahh.github.io/nord-website) to check out the live demo!
 
 ## Technologies
 * HTML
